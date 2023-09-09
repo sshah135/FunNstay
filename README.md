@@ -1,4 +1,4 @@
-# FunNstay - Implementdation.
+# FunNstay - Implementation.
 Overview 
 
  The purpose of this business proposal is to introduce a hotel registration application, a digital platform designed to streamline and enhance the hotel check-in process for both guests and hotel staff. The application aims to provide a convenient and efficient solution that reduces walking times, improves guest satisfaction, and increases operational efficiency for hotels.  
